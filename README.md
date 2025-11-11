@@ -11,3 +11,7 @@ I play Minecraft and am learning Kotlin for Minecraft and Android development. I
 
 ## Repositories
 Currently i do not have (important) repositories.
+
+## Other
+
+### See more about me here: [click here](http://qracky.short.gy/me).
