@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey! Im QrackyDev.
 
-<!--
-**QrackyDev/QrackyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a Minecraft and tech enthusiast.
 
-Here are some ideas to get you started:
+## About me
+I play Minecraft and am learning Kotlin for Minecraft and Android development. I am planning on more things on the future, but currently i do not have the time to commit to more things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Beginner Kotlin coder
+- Retired Lua coder
+
+## Repositories
+Currently i do not have (important) repositories.
