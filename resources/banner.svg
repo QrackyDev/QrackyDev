@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="100" viewBox="0 0 600 100">
+  <defs>
+    <linearGradient id="branding" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e86880" />
+      <stop offset="100%" stop-color="#707ff0" />
+    </linearGradient>
+
+    <filter id="dropShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="3" dy="3" stdDeviation="2" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <text 
+    x="50%" 
+    y="50%" 
+    dominant-baseline="middle" 
+    text-anchor="middle" 
+    font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, sans-serif" 
+    font-size="44" 
+    font-weight="bold" 
+    fill="url(#branding)" 
+    filter="url(#dropShadow)"
+  >
+    QrackyDev
+  </text>
+</svg>
