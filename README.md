@@ -1,6 +1,6 @@
 # About Me
 
-I am a passionate developer that is interested in tech and love researching.
+I am a passionate developer that is interested in tech and loves researching.
 
 # What I Use
 
