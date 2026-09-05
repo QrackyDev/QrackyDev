@@ -2,7 +2,7 @@
 
 Hi! I'm Qracky, a developer trying to make a difference. Welcome to my profile!
 
-## What i use
+## My tech stack
 
 ### Programming languages
 
