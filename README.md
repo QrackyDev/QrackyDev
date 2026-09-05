@@ -1,6 +1,6 @@
 # About me
 
-I am a passionate developer that is interested in tech and loves researching.
+Hi! I'm Qracky, a developer trying to make a difference. Welcome to my profile!
 
 ## What i use
 
