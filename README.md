@@ -7,7 +7,7 @@
   </a>
   <h2>About Me</h2>
   <p>
-    Welcome to my profile! I'm a passionate developer and tech enthusiast.
+    Welcome to my profile! I'm Qracky. I'm always trying to learn something new, tinker with stuff or create something new.
   </p>
 
   <br>
