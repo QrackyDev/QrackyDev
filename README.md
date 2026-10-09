@@ -17,8 +17,8 @@
   <p>
     <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
     <a href="https://dev.java/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-    <a href="https://www.swift.org"><img src="https://img.shields.io/badge/swift-%23F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /></a>
     <a href="https://go.dev"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
+    <a href="https://www.swift.org"><img src="https://img.shields.io/badge/swift-%23F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /></a>
     <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /></a>
   </p>
   
